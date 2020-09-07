@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Android King Power Click Test</string>
+
+    <string name="dismiss">Dismiss</string>
+    <string name="alert">Alert</string>
+    <string name="error">Error</string>
+    <string name="photo">Photos</string>
+
+    <string name="msg_can_not_load_image">Unable to load images.</string>
+    <string name="msg_pls_check_internet_connection">Please check your internet connection.</string>
+
+
+</resources>
